@@ -1,0 +1,9 @@
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\bin\Debug\Doctor Finder Windows App.exe.config
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\bin\Debug\Doctor Finder Windows App.exe
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\bin\Debug\Doctor Finder Windows App.pdb
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\obj\Debug\Doctor Finder Windows App.csprojAssemblyReference.cache
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\obj\Debug\Doctor_Finder_Windows_App.Form1.resources
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\obj\Debug\Doctor_Finder_Windows_App.Properties.Resources.resources
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\obj\Debug\Doctor Finder Windows App.csproj.GenerateResource.cache
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\obj\Debug\Doctor Finder Windows App.exe
+C:\Users\hhk\source\repos\Doctor Finder Windows App\Doctor Finder Windows App\obj\Debug\Doctor Finder Windows App.pdb

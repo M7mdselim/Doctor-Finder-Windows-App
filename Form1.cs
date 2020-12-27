@@ -16,5 +16,11 @@ namespace Doctor_Finder_Windows_App
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form F = new Form();
+            F.ShowDialog();
+        }
     }
 }
